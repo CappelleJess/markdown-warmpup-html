@@ -1,0 +1,2 @@
+- Good job opportunities
+- Create own projects

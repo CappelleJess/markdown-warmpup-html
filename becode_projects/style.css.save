@@ -1,0 +1,13 @@
+body, html {
+	background-color: #53996C;
+}
+
+
+h1 {
+	color: #B398CC;
+}
+
+li {
+
+}
+

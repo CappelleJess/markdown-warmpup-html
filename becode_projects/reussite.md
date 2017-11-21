@@ -1,0 +1,2 @@
+- Bitwig
+- Photoshop
