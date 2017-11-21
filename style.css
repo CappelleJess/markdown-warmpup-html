@@ -1,2 +1,21 @@
 
+body {
+  width: 100%;
+  background-image: url("https://www.wallpapervortex.com/wallpaper-58909_photo_manipulation_vaporwave_image_glitch.html#.WhP3yunia00");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  color: #C0ECA4 ;
+	font-size: 250%;
+	font-weight: 900;
+	margin-bottom: 1rem;
+ }
+
+ul {
+  color: #E5C6C4;
+  line-height: 40px;
+}
 
